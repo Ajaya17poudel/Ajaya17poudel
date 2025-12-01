@@ -1,6 +1,6 @@
 - 👋 Hi, It's Ajaya Poudel here for you.
 - 👀 Programing in blood!
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python & JS
 - 💞️ Its my pleasure to colaborate with you!
 - 📫 Reach me via : aj000171717@gmail.com
 - 😄 Pronouns: Aj
